@@ -254,7 +254,7 @@ a_features = [[
     "USE_TOF10120","USE_SDM72","USE_DISPLAY_TM1637","USE_PROJECTOR_CTRL"
     ],[
     "USE_MPU_ACCEL","USE_TFMINIPLUS","USE_CSE7761","USE_BERRY",
-    "USE_BM8563","USE_ENERGY_DUMMY","USE_AM2320","",
+    "USE_BM8563","USE_ENERGY_DUMMY","USE_AM2320","USE_IRMP",
     "","","","",
     "","","","",
     "","","","",
